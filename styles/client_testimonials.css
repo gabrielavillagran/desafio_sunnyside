@@ -1,0 +1,39 @@
+.client_testimonials{
+  text-align: center;
+  margin:2em 2em;
+}
+
+.client_testimonials_titulo{
+  font-family: var(--fonte-secundaria);
+  color: var(--color-gray-light);
+  letter-spacing:4px;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin:4em 0;
+}
+
+.client_testimonials_texto{
+  color: var(--color-gray);
+  font-size: 18px;
+  line-height: 1.5em;
+  font-weight: 600;
+}
+
+.client_testimonials_autor{
+  font-size: 18px;
+  font-weight: 800;
+  margin-top: 2em;
+}
+
+.client_testimonials_cargo{
+  color: var(--color-gray);
+  font-size: 16px;
+  margin-top: 0.5em;
+  margin-bottom: 6em;
+}
+
+.client_testimonials_imagem_perfil{
+  border-radius: 100%;
+  width: 30%;
+}

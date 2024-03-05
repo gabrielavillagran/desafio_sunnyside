@@ -1,0 +1,26 @@
+.container_dois{
+  text-align: center;
+  margin: 1em 1em;
+}
+
+.container_dois_titulo{
+  font-weight: 800;
+}
+
+.container__dois_texto{
+  color: var(--color-gray);
+  font-size: 18px;
+  line-height: 1.5em;
+  margin: 1em 1em;
+}
+
+.container__dois_leia_mais{
+  color: var(--color-black);
+  font-size: 16px;
+  font-weight: 800;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 2em;
+  text-shadow: 0.05em 0.05em 0.05em var(--color-Yellow)
+
+}

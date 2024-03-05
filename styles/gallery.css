@@ -1,0 +1,9 @@
+.gallery{
+  display: flex;
+  direction: row;
+  flex-wrap: wrap;
+}
+
+.gallery_imagem{
+  width: 50%;
+}

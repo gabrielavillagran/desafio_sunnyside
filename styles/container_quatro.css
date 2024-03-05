@@ -1,0 +1,30 @@
+.container__quatro{
+  flex: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 2em;
+}
+
+.container__quatro_imagem{
+  width: 100vw;
+}
+
+.container__quatro_textos{
+  color: var(--color-Dark-desaturated-cyan);
+  position: absolute;
+  top: 60%;
+}
+
+.container__quatro_texto{
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.5em;
+  margin: 0 1em;
+}
+
+.container__quatro_titulo{
+  font-weight: 800;
+  margin: 1em;
+}

@@ -37,7 +37,9 @@
   background-color: white;
   padding: 1em 4em;
 }
-
+.lista-menu{
+  display: none;
+}
 
 .lista-menu__link {
   color: var(--color-gray);

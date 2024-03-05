@@ -18,7 +18,7 @@
 .menu__hamburger{
   width: 24px;
   height: 24px;
-  background-image: url("../sunnyside-agency-landing-page-main/images/icon-hamburger.svg");
+  background-image: url("../images/icon-hamburger.svg");
   background-repeat: no-repeat;
   background-position: end;
   display:inline-flex;
